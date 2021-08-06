@@ -1,0 +1,41 @@
+[{
+  "id": 1, 
+  "name": "Apple",
+  "wholePrice": 19.99,
+  "slicePrice": 4.99,
+  "sliceCalories": 67,
+  "imageURL": "images/apple.jpg"
+},
+
+{"id": 2, 
+"name": "Mousse",
+"wholePrice": 22.99,
+"slicePrice": 5.99,
+"sliceCalories": 82,
+"imageURL": "images/mousse.jpg"
+},
+
+{"id": 3, 
+  "name": "Cherry",
+  "wholePrice": 18.99,
+  "slicePrice": 4.59,
+  "sliceCalories": 63,
+  "imageURL": "images/cherry.jpg"
+  },
+
+  {"id": 4, 
+    "name": "Rebar",
+    "wholePrice": 19.99,
+    "slicePrice": 4.99,
+    "sliceCalories": 60,
+    "imageURL": "images/rebar.jpg"
+    },
+
+    {"id": 5, 
+      "name": "Key-Lime",
+      "wholePrice": 22.99,
+      "slicePrice": 7.99,
+      "sliceCalories": 57,
+      "imageURL": "images/key-lime.jpg"
+      }
+]
